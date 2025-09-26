@@ -22,7 +22,7 @@
 3. 程序会自动下载并解压插件到 <code>C:\CMD Tools</code> 文件夹。
 4. 打开 Chrome 或 Edge，访问扩展程序管理页面：<br>
 	<code>chrome://extensions/</code> 或 <code>edge://extensions/</code>
-5. <b>开启“开发者模式”</b>，点击“加载已解压的扩展程序”，选择 <code>C:\CMD Tools\bypass-paywalls-chrome-clean-master</code> 文件夹。
+5. <b>开启“开发者模式”</b>，点击“加载已解压的扩展程序”，选择 <code>C:\CMD Tools\ ****</code> 文件夹。
 6. 如需更新插件，重复运行本工具即可。
 
 
@@ -39,7 +39,7 @@
 ## 💡 常见问题
 
 - <b>下载失败/超时</b>：请检查网络连接，或稍后重试。
-- <b>找不到插件文件夹</b>：请确认 <code>C:\CMD Tools</code> 下有 <code>bypass-paywalls-chrome-clean-master</code> 文件夹。
+- <b>找不到插件文件夹</b>：请确认 <code>C:\CMD Tools</code> 下有 <code>****</code> 文件夹。
 - <b>浏览器无法加载</b>：请确保选择的是完整的插件文件夹，而不是压缩包或子文件夹。
 
 
